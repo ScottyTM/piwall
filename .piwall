@@ -66,3 +66,15 @@ width=400
 height=300
 x=800
 y=600
+
+[tube]
+pi1=tube1
+pi2=tube2
+pi3=tube3
+pi4=tube4
+pi5=tube5
+pi6=tube6
+pi7=tube7
+pi8=tube8
+pi9=tube9
+
